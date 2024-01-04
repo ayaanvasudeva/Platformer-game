@@ -1,4 +1,4 @@
-Play the game here https://supersayiancoder.github.io/Platformer-game/
+Play the game here https://supersaiyancoding.github.io/Platformer-game/
 _________________________________________________________________________
 
 COOL PLATFORM GAME!
